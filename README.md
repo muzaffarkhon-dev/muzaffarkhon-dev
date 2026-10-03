@@ -78,7 +78,7 @@ React Native
 
 ## 📂 Featured Projects
 
-### ☕ Café Shahdi Website
+### ☕ Café Shahdi Khujand Website
 
 A modern website project for a local café.
 
